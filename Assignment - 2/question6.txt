@@ -1,0 +1,1 @@
+Output of the given code -> 49

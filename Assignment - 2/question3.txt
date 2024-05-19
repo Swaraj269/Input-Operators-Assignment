@@ -1,0 +1,1 @@
+Output of the code given is -> 2
